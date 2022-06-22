@@ -1,1 +1,27 @@
+body {  
+    background-image: url('https://mpics.mgronline.com/pics/Images/564000007118001.JPEG.webp');
+      background-repeat : repeat ;
+      background-size: cover;
+      font-family:'Chonburi&display', sans-serif;
+    }
+    header 
+      {
+        background-color: black;
+        color: pink;
+        height: 70px;
+        padding: 10px;
+      }
+      
+      footer{
+        background-color: black;
+        color: pink;
+        height: 50px;
+        padding: 10px;
+        text-align: center;
+      }
+      .mainpage 
+      {width: 1024px; margin: 0 auto}
 
+      .headname {
+          color: rgb(255, 147, 197);
+      }
