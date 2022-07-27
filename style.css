@@ -1,50 +1,47 @@
 body {
-  background-image: url('https://lh4.googleusercontent.com/AJfFDTiGatp7EYQTbs9NMSIaz50blL0cEoNc84JaHnPFNzzTLyR3j-j8ghAgUSfn_YM-b-wr1JNp2hU=w1903-h969');
-  background-repeat: no-repeat;
-  background-size: 1920px;
+  background-image: url('https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg');
+  background-repeat: repeat;
+  background-size: cover;
   font-family: 'Kanit', sans-serif;
-}
+} 
 
-header
-{
-background-color: black;
-color: white;
-height: 70px;
-padding: 10px;
+header {
+  background-color: black;
+  color: white;
+  height: 100px;
+  padding: 10px;
 }
 
 footer {
-background-color: black;
-color: white;
-height: 50px;
-padding: 10px;
-text-align: center;
-}
-.mainpage
-{
-width: 1024px; 
-margin: 0 auto;
+  background-color: black;
+  color: white;
+  height: 50px;
+  padding: 10px;
+  text-align: center;
 }
 
-.headname1
-{
-color: rgb(255, 208, 0);
-font-size: 30px;
+.mainpage {
+    width: 1024px; 
+    margin: 0 auto;
+  }
+
+.headname1 {
+  color: rgb(255, 238, 0);
+  font-size: 30px;
 }
 
-.headname2
-{
+.headname2 {
 color: rgb(255, 255, 255);
 }
 
 .graphic{
-background-image: url("image/chantaburi-cover.jpeg");
+background-image: url("images/chantaburi-cover.jpeg");
 height: 320px;
-padding:auto;
+padding: auto;
 }
 
 .maps{
-border: 1px solid rgb(255, 146, 146);
+border: 1px solid #ccc;
 height: 300px;
 }
 
@@ -57,20 +54,20 @@ padding: 10px;
 width: 190px;
 border-radius: 10px;
 }
-.topmenu{
-  background-color: pink;
-  height: 40px
-  }
 
-.topmenu ul{
-  list-style: disc;
-  margin: auto;
-  display: flex;
-  justify-content: left;
+.topmenu{
+background-color: pink;
+height: 40px;
 }
 
+.topmenu ul{
+list-style: disc;
+margin: auto;
+display: flex;
+justify-content: left;
+}
 
 .topmenu li{
-  float: right;
-  padding: 10px 40px;
+float: right;
+padding: 10px 40px;
 }
